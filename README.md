@@ -1,2 +1,2 @@
 # Javascript-Practice
-practice to learn javascript
+This repository contains the way I learned JavaScript from beginner to advanced. You can follow along as well.
